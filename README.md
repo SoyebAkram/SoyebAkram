@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SoyebAkram
-- 👀 I’m interested in music
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Traveling 
+- 🌱 I’m currently learning ML
+- 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me soyebakram05@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
